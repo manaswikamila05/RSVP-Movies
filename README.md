@@ -1,4 +1,6 @@
 # RSVP-Movies
+SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights.
+
 
 # Problem Introduction
 RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
@@ -15,3 +17,7 @@ You are a data analyst and an SQL expert. You must use SQL to analyze the given 
 4. Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
 
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
+
+
+# ERD
+![alt text](https://github.com/manaswikamila05/RSVP-Movies/blob/main/ERD.JPG?raw=true)
