@@ -21,3 +21,6 @@ If you don't wish to perform the data loading part, you can directly download th
 
 # ERD
 ![alt text](https://github.com/manaswikamila05/RSVP-Movies/blob/main/ERD.JPG?raw=true)
+
+## Support
+Give a ⭐️ if you like this project!
